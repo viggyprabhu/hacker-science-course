@@ -14,8 +14,8 @@ Introduction to Algorithms - [MIT OCW Introduction to Algorithms by Prof. Prof. 
 
 Introduction to Computer Science | Programming Paradigms - [Stanford Course by Prof. Jerry Cain](http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee)
 
-
-
+Introduction to Data Structures and Algorithms - [University of New South Wales- Richard Buckland]
+(https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1)
 
 ##Join Us
 
